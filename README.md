@@ -16,7 +16,7 @@ Specifically, ```ukbb_data_handler``` provides:
 
 Add the following to your projects pyproject.toml file in the [tool.poetry.dependencies] section:
 ```toml
-ukbb-data-handle = {git = "ssh://git@github.com:Dominic-Arold/ukbb_data_handler.git", tag = "0.2.0"}
+ukbb-data-handler = {git = "https://github.com/Dominic-Arold/ukbb_data_handler.git", tag = "0.2.0"}
 ```
 And update your environment in the shell:
 ```bash
